@@ -18,55 +18,32 @@
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="js/bootstrap.min.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="css/styles.css" />
 	</head>
 	<body>
 		<div class="container main-area">
 			<header>
-				<h1>RMBL R/Statistics Workshop 2015 Working Title</h1>
+				<h1>RMBL R/Statistics Workshop 2015</h1>
 			</header>	
-			<nav>
-				<h3>Table of Contents</h3>
-				<ol>
-					<li>0.0 Introduction to RStudio
-					<li>1.0 Importing Data to RStudio
-					<li>2.0 Visualizing Data in RStudio
-					<li>3.0
-					<li>4.0
-					<li>5.0
-					<li>6.0
-					<li>7.0
-				</ol>
-			</nav>
-			<div id="module-zero">
+
+			<div id="table-of-contents">
 				<div class="row">
-					<div class="col-md-8 col-sm-6">
-					
+					<div class="col-md-4 col-sm-6">
+						<ol>
+							<li>0.0 <a href="module-00.php">Introduction to RStudio</a>
+							<li>1.0 <a href="module-01.php">Importing Data to RStudio</a>
+							<li>2.0 <a href="module-02.php">Visualizing Data in RStudio</a>
+							<li>3.0
+						</ol>
 					</div>
 					<div class="col-md-4 col-sm-6">
-					
+						<ol>
+							<li>4.0
+							<li>5.0
+							<li>6.0
+							<li>7.0
+						</ol>
 					</div>
 				</div>
 			</div>
-			<div id="module-one">
-				<div class="row">
-					<div class="col-md-8 col-sm-6">
-					
-					</div>
-					<div class="col-md-4 col-sm-6">
-					
-					</div>
-				</div>
-			</div>
-			<div id="module-two">
-				<div class="row">
-					<div class="col-md-8 col-sm-6">
-					
-					</div>
-					<div class="col-md-4 col-sm-6">
-					
-					</div>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>
