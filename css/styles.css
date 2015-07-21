@@ -25,6 +25,14 @@ h2, h3, h4 {
 	margin-bottom: 15px;
 }
 
+blockquote {
+	quotes: none;
+	padding: 15px 25px;
+	border-left: 0px;
+	font-size: 1.2em;
+	margin-bottom: 10px;
+}
+
 /* Global */
 
 body {
@@ -43,8 +51,56 @@ img {
 	max-width: 100%;
 }
 
+.center {
+	margin: auto;
+}
+
+.italic {
+	font-style: italic;
+}
+
 /* Header */
 
 div#table-of-contents {
 	padding-top: 0px;
+}
+
+/* Body */
+
+table {
+	margin:auto;
+	padding-bottom: 10px;
+}
+
+
+table span {
+	text-decoration: overline;
+}
+
+td  {
+	text-align: center;
+}
+
+.small {
+	font-size: .8em;
+}
+
+.answers {
+	display: none;
+}
+
+.block-hint {
+	font-size: 1em;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+ul.normal {
+	list-style: disc;
+	padding-left: 1.4em;
+}
+
+ul.square {
+	list-style: square;
+	padding-left: 1.4em;
 }

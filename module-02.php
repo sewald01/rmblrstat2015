@@ -54,7 +54,7 @@
 				<div class="col-md-6 col-sm-6">
 					<h3>2.4 Describing categorical data</h3>
 					<p>The major descriptive statistic for categorical data is the proportion or simply the number of observations in a category divided by the total number of observations.
-					<img src="images/observations.jpg">
+					<p>$\hat{p}=\frac{number\ of\ observations\ in\ category}{total\ number\ of\ observations}$
 					<p>After calculating proportions for all your categories, you will be ready to start analyzing your data as shown in Module 3.
 				</div>
 				<div class="col-md-6 col-sm-6">
